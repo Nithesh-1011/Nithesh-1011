@@ -1,5 +1,7 @@
 <img align="right" alt="coding" width=250; height="250"  src="https://i.gifer.com/origin/98/98eda5b292bc33c779b8499d656f90ad_w200.webp">
-# 💫 About Me:
+# 💫 About Me:<br>
+<h1 align="center">Hi 👋, I'm Srinithesh A</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 💬 Ask me about react<br><br>📫 How to reach me srinithesh1011@gmail.com<br><br>⚡ Fun fact I studied biology group in school😂
 
 
