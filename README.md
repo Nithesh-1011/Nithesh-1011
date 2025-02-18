@@ -1,24 +1,75 @@
-<img align="right" alt="coding" width=250; height="250"  src="https://i.gifer.com/origin/98/98eda5b292bc33c779b8499d656f90ad_w200.webp">
-# 💫 About Me:<br>
-<h1 align="center">Hi 👋, I'm Srinithesh A</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-💬 Ask me about react<br><br>📫 How to reach me srinithesh1011@gmail.com<br><br>⚡ Fun fact I studied biology group in school😂
+# 💼 Srinithesh A  
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nithesh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@nithesh_srn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SrinitheshA) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@nithesh1011) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nithesh-1011&limit=5&theme=nord&combine_all_yearly_contributions=true)
+📍 Erode, Tamil Nadu | ✉️ srinithesh1011@gmail.com | 📞 93422 84162  
+🔗 [LinkedIn](https://linkedin.com/in/srinithesh-ammasi-5a444924a)  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nithesh-1011&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔹 Summary  
+Innovative and detail-oriented **Full Stack Developer & AI Enthusiast** with expertise in **Salesforce CRM, AI-driven automation, and WordPress development**. Passionate about **leveraging technology to optimize business processes** and enhance user experiences.  
+
+---
+
+## 🎓 Education  
+### 🎓 **B.Tech in Information Technology**  
+📍 Shanmugha College of Engineering and Technology | **2021 – 2025**  
+📊 **CGPA:** 8.1 (No history of arrears)  
+🏆 **HSC:** 78% | **SSLC:** 72.6%  
+
+---
+
+## 💼 Professional Experience  
+
+### 🚀 **AI and Salesforce Intern**  
+📍 **IAgami Technologies Private Limited** | **Feb 2024 – Dec 2024**  
+- Customized and automated **Salesforce CRM** workflows, streamlining business operations for improved efficiency.  
+- Developed **AI-driven automation scripts** to enhance conversational AI tools and customer engagement.  
+- Designed and optimized **WordPress websites using Advanced Custom Fields (ACF)** for enhanced user experience.  
+- **Tech Stack:** Salesforce CRM, Automation Scripts, WordPress (ACF)  
+
+### 📢 **Marketing and Outreach Intern**  
+📍 **IN22 Labs** | **Nov 2023 – Feb 2024**  
+- Led **strategic marketing campaigns**, significantly increasing internship applications and website traffic.  
+- Built strong **relationships with educational institutions** to establish long-term partnerships.  
+- **Key Contributions:** Sales campaigns, Relationship Management, Outreach Strategy  
+
+---
+
+## 📜 Technical Training  
+### 🖥️ **Full-Stack Web Development (PERN Stack)**  
+📍 iViewSense Pvt Ltd, Chennai | **July 2023 – Sept 2024**  
+- Hands-on experience in building **scalable web applications** using the **PERN stack (PostgreSQL, Express.js, React, Node.js)**.  
+
+---
+
+## 🛠 Technical Skills  
+- **Programming Languages:** Python, Java, C++, JavaScript, HTML, CSS  
+- **Web Development:** React, Node.js, WordPress (ACF), SCSS  
+- **Salesforce Expertise:** CRM Customization, Workflow Automation  
+- **AI & Automation:** Conversational AI (CCAI), AI-driven automation scripts  
+- **Tools & Platforms:** Git, GitHub, VS Code, Figma, MS Office Suite  
+
+---
+
+## 🎯 Interests & Passion  
+- 💡 **Machine Learning & AI:** Exploring ML models to create innovative solutions.  
+
+---
+
+## 📊 GitHub Stats  
+
+![Srinithesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithesh-1011&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithesh-1011&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srinithesh-ammasi-5a444924a)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@nithesh1011)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@nithesh_srn)  
+
+---
+
+🔹 *Always learning, always evolving!* 🚀
+
