@@ -46,7 +46,7 @@ Innovative and detail-oriented **Full Stack Developer & AI Enthusiast** with exp
 - **Languages** : Python, c++ basics, HTML, CSS
 - **Frameworks** : WordPress (ACF), MERN, Flask, Streamlit
 - **Libraries & ML Frameworks**: Scikit-learn, TensorFlow (Basics)
-- **Tools & Technologies** : Git , Github , VSCode , Anaconda, SQL
+- **Tools & Technologies** : Git , Github , VSCode , Anaconda, SQL, Linux
 - **Platforms** : Salesforce , Wordpress
 - 
 ---
