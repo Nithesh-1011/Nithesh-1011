@@ -1,8 +1,8 @@
 # 💼 Srinithesh A  
 
 📍 Erode, Tamil Nadu | ✉️ srinithesh1011@gmail.com | 📞 93422 84162  
-🔗 [LinkedIn](https://linkedin.com/in/srinithesh-ammasi-5a444924a)  
-🔗 [Portfolio](https://srinithesh.me/)
+🔗 [LinkedIn](https://linkedin.com/in/srinithesh-ammasi-5a444924a)  🔗 [Portfolio](https://srinithesh.me/)
+
 ---
 
 ## 🔹 Summary  
