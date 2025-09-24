@@ -58,8 +58,6 @@ Innovative and detail-oriented **Full Stack Developer & AI Enthusiast** with exp
 
 ## 📊 GitHub Stats  
 
-![Srinithesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithesh-1011&show_icons=true&theme=radical)  
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithesh-1011&layout=compact&theme=radical)  
 
 ---
