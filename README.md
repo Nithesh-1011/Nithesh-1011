@@ -2,7 +2,7 @@
 
 📍 Erode, Tamil Nadu | ✉️ srinithesh1011@gmail.com | 📞 93422 84162  
 🔗 [LinkedIn](https://linkedin.com/in/srinithesh-ammasi-5a444924a)  
-
+🔗 [Portfolio](https://srinithesh.me/)
 ---
 
 ## 🔹 Summary  
@@ -13,7 +13,7 @@ Innovative and detail-oriented **Full Stack Developer & AI Enthusiast** with exp
 ## 🎓 Education  
 ### 🎓 **B.Tech in Information Technology**  
 📍 Shanmugha College of Engineering and Technology | **2021 – 2025**  
-📊 **CGPA:** 8.1 (No history of arrears)  
+📊 **CGPA:** 7.83 (No history of arrears)  
 🏆 **HSC:** 78% | **SSLC:** 72.6%  
 
 ---
@@ -43,16 +43,16 @@ Innovative and detail-oriented **Full Stack Developer & AI Enthusiast** with exp
 ---
 
 ## 🛠 Technical Skills  
-- **Programming Languages:** Python, Java, C++, JavaScript, HTML, CSS  
-- **Web Development:** React, Node.js, WordPress (ACF), SCSS  
-- **Salesforce Expertise:** CRM Customization, Workflow Automation  
-- **AI & Automation:** Conversational AI (CCAI), AI-driven automation scripts  
-- **Tools & Platforms:** Git, GitHub, VS Code, Figma, MS Office Suite  
-
+- **Languages** : Python, c++ basics, HTML, CSS
+- **Frameworks** : WordPress (ACF), MERN, Flask, Streamlit
+- **Libraries & ML Frameworks**: Scikit-learn, TensorFlow (Basics)
+- **Tools & Technologies** : Git , Github , VSCode , Anaconda, SQL
+- **Platforms** : Salesforce , Wordpress
+- 
 ---
 
 ## 🎯 Interests & Passion  
-- 💡 **Machine Learning & AI:** Exploring ML models to create innovative solutions.  
+- 💡 **I,ML,DL:** Exploring ML,DL models to create innovative solutions.  
 
 ---
 
